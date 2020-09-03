@@ -1,7 +1,3 @@
-https://auth0.com/docs/connections/social/google
-
-https://manage.auth0.com/dashboard/us/AUTH0_DOMAIN_PREFIX/connections/social
-
 # React-Auth0 Express Boilerplate
 This is a production-ready boilerplate that implements the following technologies:
 - React
