@@ -36,7 +36,7 @@ const AuthUserDrawer = props => {
             <Drawer.Footer>
               <IconButton icon={<Icon icon="gear" />} placement="right"
                 appearance="ghost" block
-                onClick={(e)=>{e.preventDefault(); logout();}}>
+                onClick={(e)=>{e.preventDefault();}}>
                 Settings
               </IconButton>
               <IconButton icon={<Icon icon="sign-out" />} placement="right"
